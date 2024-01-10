@@ -25,3 +25,14 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.inputMagnifyingGlass
+{
+  background-image: url("/img/lupa.png");
+  background-position: 98%;
+  background-repeat: no-repeat;
+  background-size: 30px;
+  background-color:#52525b;
+  border-radius: 20px;
+  padding: 10px;
+}
